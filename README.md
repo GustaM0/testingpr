@@ -2,6 +2,6 @@
 
 Removendo a partir de main
 
-Removendo a partir de test 
+Removendo um conflito a partir de main 
 
 Content de test
